@@ -1,0 +1,10 @@
+{
+	"source": "extend",
+	"version": "8.0.2",
+	"embed": false,
+	"objects": {
+		"mPDF": "vendor/autoload.php"
+	},
+	"manufacturer_name": "Ian N Back",
+	"manufacturer_url": "https://mpdf.github.io/"
+}

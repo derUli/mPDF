@@ -1,0 +1,11 @@
+{
+	"id": "mPDF",
+	"version": "8.0.2",
+	"description": "PHP library generating PDF files from UTF-8 encoded HTML",
+	"categories": [
+		"pdf",
+		"render",
+		"output"
+	],
+	"compatible_from": "2020.1"
+}
